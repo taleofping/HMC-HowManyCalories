@@ -9,4 +9,4 @@ Mobile Application Development Class’s project (Work in pairs)
 
 Or
 
-- Install the apk file.
+- Install the apk file. (https://drive.google.com/file/d/1sOmuxJ5ia3iiu6WvgdZ_Kkdg1BUkiMMd/view?usp=sharing)
